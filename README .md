@@ -142,7 +142,6 @@ pip install -r requirements.txt
 ## 👤 Author
 
 **Adithia**  
-From Vadakara  
 AI & Deep Learning Enthusiast  
 
 ---
