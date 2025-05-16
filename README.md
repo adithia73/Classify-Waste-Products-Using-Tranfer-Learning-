@@ -1,5 +1,5 @@
 
-# 🧠 Binary Waste Classification (O vs R) Using VGG16 + Fine-Tuning
+# 🧠 Automated  Classification between Recyclable and Organic Using VGG16 + Fine-Tuning
 
 This project implements a **binary image classification** model using **Transfer Learning** with the **VGG16** architecture. The model is trained to differentiate between two categories of waste images labeled **'O'** and **'R'**.
 
@@ -21,11 +21,11 @@ o-vs-r-split/
 
 Each folder contains the corresponding images for that class.
 
----
+---automated waste classification model
 
 ## 🔍 Problem Statement
 
-> Develop a binary classifier that can distinguish between images of two different types of waste — 'O' and 'R' — using pre-trained deep learning models for efficient and accurate classification.
+>The aim of the project is to develop an automated waste classification model that can accurately differentiate between recyclable and organic waste based on images. 
 
 ---
 
